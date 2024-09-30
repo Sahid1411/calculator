@@ -1,25 +1,21 @@
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 .container-1{
-    height: 328px;
+    height: 360px;
     width: 190px;
     border: 2px solid black;
     background-color: black;
     position: absolute;
-    top: 20px;
+    top: 100px;
     border-radius: 7px;
     padding: 7px;
+    
 }
 
 .empty{
     height: 36px;
     width: 100%;
     position: relative;
-    margin-top: 80px;
+    margin-top: 110px;
 }
 
 .btn-custom{
@@ -52,11 +48,11 @@ button {
 
 .main-container{
     height: 100vh;
-    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100vw;
+    /* border: 2px solid yellow; */
 }
 
 .empty-2nd{
